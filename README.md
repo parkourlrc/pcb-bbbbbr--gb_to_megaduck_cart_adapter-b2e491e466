@@ -8,6 +8,10 @@ The consoles have near identical cpu cores (1) and an almost identical cart pino
 ![MegaDuck Adapter with a game boy cart connected](/pix/megaduck_gb_to_duck_adapter_cartonly_400.jpg)
 ![MegaDuck Adapter plugged into a Mega Duck console with a game boy cart connected](/pix/megaduck_gb_to_duck_adapter_console_400.jpg)
 
+# Related designs
+Also see this alternative daughter board with a different cart orientation (up instead of down).
+- https://github.com/Raphael-Boichot/Megaduck-to-game-boy-camera-adapter
+
 # Game Boy game compatibility
 - **Q:** Does this mean regular Game Boy carts/games will run unmodified on the Mega Duck with this adapter?
 - **A:** __No.__ Game Boy games require manual ROM patching to alter their register addresses, values and other changes in order to run on the Mega Duck.
